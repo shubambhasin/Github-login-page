@@ -85,11 +85,15 @@ body
     padding: 2px 0px;
 
 }
-.link
+.link, .link-2
 {
     
     text-decoration: none;
     color: rgb(100, 100, 255);
+}
+.link:hover
+{
+  text-decoration: underline;
 }
 
 .side
